@@ -1,2 +1,2 @@
-# api_potd
-an api endpoint to fetch potd s for leetcode, geeks for geeks, coding ninjas
+# random-json
+i don't want anyone to visit this repooooo
