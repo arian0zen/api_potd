@@ -84,6 +84,7 @@ fetch("https://fetchpotdshere.herokuapp.com/gfg")
 
 
 
+
 ## Status Codes
 
 API-POTD returns the following status codes in its API:
